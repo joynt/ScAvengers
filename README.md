@@ -1,6 +1,6 @@
 # ScAvengers
 
-This repository contains the code we developed for the Scavenge project.
+This repository contains the code we developed for the Scavenge Data Challenge: http://www.scavenge.eu/dissemination/data-challenge/.
 The files are organized as follow:
 - data_extraction.ipynb --> in this notebook, we loaded raw data and perform some
                             statistical evaluations on them. Then, we organizes the
