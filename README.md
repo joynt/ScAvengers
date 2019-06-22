@@ -16,3 +16,5 @@ The files are organized as follow:
                   
 - Results.ipynb --> in this notebook, we calculated the NRMSE and the error vector to evaluate
                     our models.
+
+The pdf file is the paper where our approach is explained and our results are shown.
